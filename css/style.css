@@ -1,0 +1,22 @@
+h1,h2,h3,h4{
+    font-family: 'hasanhiba';
+   
+}
+
+ul,li,p{
+    font-family: 'roboto';
+}
+
+.w-full.md\:w-\[450px\].pt-0.py-4.space-y-1.rounded-lg {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text-white.lg\:w-\[200px\].w-\[33\%\].rounded {
+    z-index: 22;
+    width: 200px;
+}
+.herder-font h3{
+    font-family: 'hasanhiba';
+    font-weight: bold;
+}
