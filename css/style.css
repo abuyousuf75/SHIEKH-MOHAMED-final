@@ -12,9 +12,8 @@ ul,li,p{
     margin-bottom: 20px;
 }
 
-.text-white.lg\:w-\[200px\].w-\[33\%\].rounded {
-    z-index: 22;
-    width: 200px;
+.text-white.lg\:w-\[200px\].w-\[230px\].rounded {
+    z-index: 99;
 }
 .herder-font h3{
     font-family: 'hasanhiba';
